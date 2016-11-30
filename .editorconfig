@@ -13,3 +13,7 @@ indent_size = 2
 
 [*.md]
 insert_final_newline = true
+
+[.*rc]
+insert_final_newline = false
+trim_trailing_whitespace = true
